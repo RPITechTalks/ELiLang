@@ -1,0 +1,10 @@
+[package]
+name = "ELiLang"
+version = "0.1.0"
+authors = ["Benjamin Sherman <benjamin@bensherman.io>"]
+edition = "2018"
+license = "MPL-2.0"
+
+[dependencies]
+inkwell = { git = "https://github.com/TheDan64/inkwell", branch = "llvm10-0" }
+structopt = "0.3.16"

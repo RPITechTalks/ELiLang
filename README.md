@@ -1,0 +1,1 @@
+Source code for the ELiLang compiler, created for the Intro to Compilers and LLVM talk.  Large portions of the codebase were modified from [the Ballet Compiler](https://gitlab.com/benjaminrsherman/ballet).
